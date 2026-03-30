@@ -68,7 +68,7 @@ export default function ExclusiveBundles() {
       </p>
 
       
-      <div className="w-full max-w-[1400px] mx-auto pb-16">
+      <div className="w-full max-w-350 mx-auto pb-16">
         <Swiper
           modules={[Pagination]}
           spaceBetween={30}
